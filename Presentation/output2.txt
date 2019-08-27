@@ -1,0 +1,40 @@
+
+FILE :A Better Future Through Science _ StarTalk-0SnZyZzclWY.en.vtt                                       CATEGORY:applied_science.        Manual:applied_science,pure_science
+
+FILE :A Steam Pit Celebration _ Live Free or Die-3XjfjxAnHmI.en.vtt                                       CATEGORY:applied_science.        Manual:applied_science,art,artisanship
+
+FILE :A Wicked Tongue _ Wicked Tuna-9HYDawu8urU.en.vtt                                                    CATEGORY:fishing.                Manual:fishing,money
+
+FILE :Adorable Bear Cubs Crash Campsite _ Expedition Raw-LbX_AUgtyQc.en.vtt                               CATEGORY:mountaineering.         Manual:mountaineering,animals
+
+FILE :Artificial Intelligence in Space _ StarTalk-HJNNU2eR2oc.en.vtt                                      CATEGORY:social_science.         Manual:engineering,computer_science
+
+FILE :Beaver for Bolts _ Live Free or Die-wBgmyZRPvLY.en.vtt                                              CATEGORY:money.                  Manual:money,social_science
+
+FILE :Before 'Black Lives Matter' - A 1959 Speech About Police Brutality _ National Geographic-gKmf6eOQrLI.en.vttCATEGORY:social_science.  Manual:social_science
+
+FILE :Before the Flood - Trailer _ National Geographic-D9xFFyUOpXo.en.vtt                                 CATEGORY:environment.            Manual:environment
+
+FILE :Bill Nye and Exploration _ StarTalk-xXQHyTTcMR4.en.vtt                                              CATEGORY:astronautics.           Manual:astronautics
+
+FILE :Bill Nye on Space Exploration _ StarTalk-2QgWj1iDg18.en.vtt                                         CATEGORY:astrology.              Manual:astronautics,astrology
+
+FILE :Bill Nye on TV History _ StarTalk-rBmw03SHY70.en.vtt                                                CATEGORY:tv.                     Manual:tv
+
+FILE :Capturing the Beauty of Africa_s Wildlife and Fighting to Save It-6bgBRLWdaVQ.en.vtt                CATEGORY:pure_science.           Manual:pure_science,environment
+
+FILE :Catch of the Week - Bombs Away _ Wicked Tuna - Outer Banks-FdyGwx4eMEY.en.vtt                       CATEGORY:fishing.                Manual:fishing,money
+
+FILE :Catch of the Week - The Last Battle _ Wicked Tuna-N_j2jwXVFzI.en.vtt                                CATEGORY:fishing.                Manual:fishing,money
+
+FILE :Charles Bolden on Private Enterprise in Space _ StarTalk-727RVWjhiA0.en.vtt                         CATEGORY:astronautics.           Manual:astrology,astronautics
+
+FILE :Chris Hadfield on Mars Missions _ StarTalk-pJfwVuIRe7Q.en.vtt                                       CATEGORY:engineering.            Manual:astrology,astronautics,engineering
+
+FILE :Cold Storage Between Jupiter and Mars _ Cosmos - A Spacetime Odyssey-C4I_XbtZn8M.en.vtt             CATEGORY:astrology.              Manual:astronautics,astrology
+
+FILE :Creativity and Science, Coming Together _ StarTalk-B89JGZ6ZWxg.en.vtt                               CATEGORY:social_science.         Manual:social_science,pure_science
+
+FILE :Doggone It! _ Wicked Tuna - Outer Banks-I8u0n15fc4M.en.vtt                                          CATEGORY:fishing.                Manual:fishing,money
+
+FILE :Dot Com Makes Good _ Wicked Tuna-pSLji1mlfSc.en.vtt                                                 CATEGORY:fishing.                Manual:fishing,money

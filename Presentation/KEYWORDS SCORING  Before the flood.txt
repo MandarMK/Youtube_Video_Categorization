@@ -1,0 +1,506 @@
+C:\Users\admin\AppData\Local\Programs\Python\Python35\python.exe "E:/Acads/2nd Year/IR/Proj/demo.py"
+Extracting keywords from  : /Before the Flood - Trailer _ National Geographic-D9xFFyUOpXo.en.vtt
+solar   astrology.ppv   0.000368899
+solar   astronomy.ppv   0.00052731
+century   time_period.ppv   0.000844
+journey   cycling.ppv   0.000136036
+journey   tourism.ppv   0.000898486
+conversation   telephony.ppv   0.00122136
+country   politics.ppv   0.00026067
+US   administration.ppv   0.00097974
+US   animals.ppv   0.000334552
+US   animal_husbandry.ppv   0.000156922
+US   anthropology.ppv   0.000554414
+US   archaeology.ppv   0.000182134
+US   archery.ppv   0.000212046
+US   architecture.ppv   0.000369431
+US   art.ppv   0.000410375
+US   artisanship.ppv   0.000406633
+US   astrology.ppv   0.000333008
+US   astronautics.ppv   0.00301133
+US   aviation.ppv   0.000425271
+US   banking.ppv   0.000584647
+US   baseball.ppv   0.000312595
+US   betting.ppv   0.000147767
+US   biology.ppv   0.000293704
+US   book_keeping.ppv   0.000184354
+US   boxing.ppv   0.00110582
+US   buildings.ppv   0.000196555
+US   chess.ppv   0.00016664
+US   cinema.ppv   0.000381456
+US   commerce.ppv   0.00040637
+US   cycling.ppv   0.000132294
+US   dance.ppv   0.000699722
+US   diplomacy.ppv   0.000372061
+US   earth.ppv   0.00109795
+US   economy.ppv   0.000288856
+US   engineering.ppv   0.000157142
+US   enterprise.ppv   0.000512458
+US   environment.ppv   0.000198555
+US   ethnology.ppv   0.000374204
+US   exchange.ppv   0.000352802
+US   factotum.ppv   0.000164636
+US   finance.ppv   0.000520934
+US   fishing.ppv   0.000203514
+US   folklore.ppv   0.00128832
+US   free_time.ppv   0.000312677
+US   gastronomy.ppv   0.000294756
+US   geography.ppv   0.0011301
+US   geology.ppv   0.00031702
+US   geometry.ppv   0.000575345
+US   golf.ppv   0.000985205
+US   graphic_arts.ppv   0.00176029
+US   history.ppv   0.000766379
+US   hockey.ppv   0.000161385
+US   humanities.ppv   0.000210167
+US   hunting.ppv   0.000340646
+US   industry.ppv   0.000266711
+US   insurance.ppv   0.000535974
+US   law.ppv   0.00033117
+US   linguistics.ppv   0.00032194
+US   literature.ppv   0.000627992
+US   metrology.ppv   0.000262101
+US   military.ppv   0.000441176
+US   mountaineering.ppv   0.000158936
+US   music.ppv   0.000338029
+US   nautical.ppv   0.00033283
+US   number.ppv   0.00248668
+US   numismatics.ppv   0.000270524
+US   occultism.ppv   0.000234871
+US   oceanography.ppv   0.000188905
+US   painting.ppv   0.000643254
+US   paleontology.ppv   0.000219743
+US   pedagogy.ppv   0.000284825
+US   person.ppv   0.000391741
+US   philately.ppv   0.000132616
+US   philology.ppv   0.000166796
+US   physics.ppv   0.000223322
+US   plants.ppv   0.000286239
+US   plastic_arts.ppv   0.000143438
+US   politics.ppv   0.00112418
+US   post.ppv   0.000256828
+US   pure_science.ppv   0.000208643
+US   railway.ppv   0.000166209
+US   religion.ppv   0.000312849
+US   roman_catholic.ppv   0.000313095
+US   rowing.ppv   0.000151575
+US   sculpture.ppv   0.000188006
+US   social.ppv   0.000177776
+US   social_science.ppv   0.000338915
+US   sociology.ppv   0.00032633
+US   statistics.ppv   0.00014838
+US   sub.ppv   0.000127341
+US   swimming.ppv   0.000499706
+US   table_tennis.ppv   0.000141686
+US   tax.ppv   0.000550942
+US   telegraphy.ppv   0.000148504
+US   telephony.ppv   0.000164902
+US   tennis.ppv   0.000603016
+US   theatre.ppv   0.000875782
+US   time_period.ppv   0.000376698
+US   tourism.ppv   0.000508144
+US   town_planning.ppv   0.000873855
+US   transport.ppv   0.000222998
+US   tv.ppv   0.000175181
+US   university.ppv   0.000543393
+US   wrestling.ppv   0.000160589
+energy   physics.ppv   0.000515914
+energy   physics.ppv   0.000515914
+history   history.ppv   0.000233596
+fossil   anthropology.ppv   0.00040064
+fossil   archaeology.ppv   0.00637902
+fossil   paleontology.ppv   0.00839994
+fossil   social_science.ppv   0.000140367
+truth   politics.ppv   0.000194817
+truth   sociology.ppv   0.000275693
+reason   paranormal.ppv   0.000176677
+reason   philosophy.ppv   0.000618681
+reason   psychiatry.ppv   0.000340057
+reason   psychological_features.ppv   0.000215355
+reason   theology.ppv   0.000976852
+emitter   electricity.ppv   0.000289283
+emitter   electronics.ppv   0.00089113
+emitter   electrotechnology.ppv   0.000263964
+energy   physics.ppv   0.000515914
+change   transport.ppv   0.000226832
+problem   engineering.ppv   0.000538994
+problem   environment.ppv   0.000269442
+environmental   environment.ppv   0.00947394
+change   transport.ppv   0.000226832
+change   transport.ppv   0.000226832
+issue   banking.ppv   0.00318831
+issue   exchange.ppv   0.00092996
+issue   insurance.ppv   0.000773421
+time   law.ppv   0.000219298
+time   time_period.ppv   0.000349583
+opposition   diplomacy.ppv   0.000545338
+opposition   environment.ppv   0.000995029
+opposition   paleontology.ppv   0.000199476
+opposition   politics.ppv   0.000263998
+opposition   psychoanalysis.ppv   0.000143161
+opposition   theology.ppv   0.000341665
+solar   astrology.ppv   0.000368899
+solar   astronomy.ppv   0.00052731
+change   transport.ppv   0.000226832
+opposition   diplomacy.ppv   0.000545338
+opposition   environment.ppv   0.000995029
+opposition   paleontology.ppv   0.000199476
+opposition   politics.ppv   0.000263998
+opposition   psychoanalysis.ppv   0.000143161
+opposition   theology.ppv   0.000341665
+whole   factotum.ppv   9.54402e-05
+whole   hydraulics.ppv   0.000333806
+whole   philology.ppv   0.000556616
+office   enterprise.ppv   0.00048284
+issue   banking.ppv   0.00318831
+issue   exchange.ppv   0.00092996
+issue   insurance.ppv   0.000773421
+ask   telephony.ppv   0.000713546
+US   administration.ppv   0.00097974
+US   animals.ppv   0.000334552
+US   animal_husbandry.ppv   0.000156922
+US   anthropology.ppv   0.000554414
+US   archaeology.ppv   0.000182134
+US   archery.ppv   0.000212046
+US   architecture.ppv   0.000369431
+US   art.ppv   0.000410375
+US   artisanship.ppv   0.000406633
+US   astrology.ppv   0.000333008
+US   astronautics.ppv   0.00301133
+US   aviation.ppv   0.000425271
+US   banking.ppv   0.000584647
+US   baseball.ppv   0.000312595
+US   betting.ppv   0.000147767
+US   biology.ppv   0.000293704
+US   book_keeping.ppv   0.000184354
+US   boxing.ppv   0.00110582
+US   buildings.ppv   0.000196555
+US   chess.ppv   0.00016664
+US   cinema.ppv   0.000381456
+US   commerce.ppv   0.00040637
+US   cycling.ppv   0.000132294
+US   dance.ppv   0.000699722
+US   diplomacy.ppv   0.000372061
+US   earth.ppv   0.00109795
+US   economy.ppv   0.000288856
+US   engineering.ppv   0.000157142
+US   enterprise.ppv   0.000512458
+US   environment.ppv   0.000198555
+US   ethnology.ppv   0.000374204
+US   exchange.ppv   0.000352802
+US   factotum.ppv   0.000164636
+US   finance.ppv   0.000520934
+US   fishing.ppv   0.000203514
+US   folklore.ppv   0.00128832
+US   free_time.ppv   0.000312677
+US   gastronomy.ppv   0.000294756
+US   geography.ppv   0.0011301
+US   geology.ppv   0.00031702
+US   geometry.ppv   0.000575345
+US   golf.ppv   0.000985205
+US   graphic_arts.ppv   0.00176029
+US   history.ppv   0.000766379
+US   hockey.ppv   0.000161385
+US   humanities.ppv   0.000210167
+US   hunting.ppv   0.000340646
+US   industry.ppv   0.000266711
+US   insurance.ppv   0.000535974
+US   law.ppv   0.00033117
+US   linguistics.ppv   0.00032194
+US   literature.ppv   0.000627992
+US   metrology.ppv   0.000262101
+US   military.ppv   0.000441176
+US   mountaineering.ppv   0.000158936
+US   music.ppv   0.000338029
+US   nautical.ppv   0.00033283
+US   number.ppv   0.00248668
+US   numismatics.ppv   0.000270524
+US   occultism.ppv   0.000234871
+US   oceanography.ppv   0.000188905
+US   painting.ppv   0.000643254
+US   paleontology.ppv   0.000219743
+US   pedagogy.ppv   0.000284825
+US   person.ppv   0.000391741
+US   philately.ppv   0.000132616
+US   philology.ppv   0.000166796
+US   physics.ppv   0.000223322
+US   plants.ppv   0.000286239
+US   plastic_arts.ppv   0.000143438
+US   politics.ppv   0.00112418
+US   post.ppv   0.000256828
+US   pure_science.ppv   0.000208643
+US   railway.ppv   0.000166209
+US   religion.ppv   0.000312849
+US   roman_catholic.ppv   0.000313095
+US   rowing.ppv   0.000151575
+US   sculpture.ppv   0.000188006
+US   social.ppv   0.000177776
+US   social_science.ppv   0.000338915
+US   sociology.ppv   0.00032633
+US   statistics.ppv   0.00014838
+US   sub.ppv   0.000127341
+US   swimming.ppv   0.000499706
+US   table_tennis.ppv   0.000141686
+US   tax.ppv   0.000550942
+US   telegraphy.ppv   0.000148504
+US   telephony.ppv   0.000164902
+US   tennis.ppv   0.000603016
+US   theatre.ppv   0.000875782
+US   time_period.ppv   0.000376698
+US   tourism.ppv   0.000508144
+US   town_planning.ppv   0.000873855
+US   transport.ppv   0.000222998
+US   tv.ppv   0.000175181
+US   university.ppv   0.000543393
+US   wrestling.ppv   0.000160589
+change   transport.ppv   0.000226832
+US   administration.ppv   0.00097974
+US   animals.ppv   0.000334552
+US   animal_husbandry.ppv   0.000156922
+US   anthropology.ppv   0.000554414
+US   archaeology.ppv   0.000182134
+US   archery.ppv   0.000212046
+US   architecture.ppv   0.000369431
+US   art.ppv   0.000410375
+US   artisanship.ppv   0.000406633
+US   astrology.ppv   0.000333008
+US   astronautics.ppv   0.00301133
+US   aviation.ppv   0.000425271
+US   banking.ppv   0.000584647
+US   baseball.ppv   0.000312595
+US   betting.ppv   0.000147767
+US   biology.ppv   0.000293704
+US   book_keeping.ppv   0.000184354
+US   boxing.ppv   0.00110582
+US   buildings.ppv   0.000196555
+US   chess.ppv   0.00016664
+US   cinema.ppv   0.000381456
+US   commerce.ppv   0.00040637
+US   cycling.ppv   0.000132294
+US   dance.ppv   0.000699722
+US   diplomacy.ppv   0.000372061
+US   earth.ppv   0.00109795
+US   economy.ppv   0.000288856
+US   engineering.ppv   0.000157142
+US   enterprise.ppv   0.000512458
+US   environment.ppv   0.000198555
+US   ethnology.ppv   0.000374204
+US   exchange.ppv   0.000352802
+US   factotum.ppv   0.000164636
+US   finance.ppv   0.000520934
+US   fishing.ppv   0.000203514
+US   folklore.ppv   0.00128832
+US   free_time.ppv   0.000312677
+US   gastronomy.ppv   0.000294756
+US   geography.ppv   0.0011301
+US   geology.ppv   0.00031702
+US   geometry.ppv   0.000575345
+US   golf.ppv   0.000985205
+US   graphic_arts.ppv   0.00176029
+US   history.ppv   0.000766379
+US   hockey.ppv   0.000161385
+US   humanities.ppv   0.000210167
+US   hunting.ppv   0.000340646
+US   industry.ppv   0.000266711
+US   insurance.ppv   0.000535974
+US   law.ppv   0.00033117
+US   linguistics.ppv   0.00032194
+US   literature.ppv   0.000627992
+US   metrology.ppv   0.000262101
+US   military.ppv   0.000441176
+US   mountaineering.ppv   0.000158936
+US   music.ppv   0.000338029
+US   nautical.ppv   0.00033283
+US   number.ppv   0.00248668
+US   numismatics.ppv   0.000270524
+US   occultism.ppv   0.000234871
+US   oceanography.ppv   0.000188905
+US   painting.ppv   0.000643254
+US   paleontology.ppv   0.000219743
+US   pedagogy.ppv   0.000284825
+US   person.ppv   0.000391741
+US   philately.ppv   0.000132616
+US   philology.ppv   0.000166796
+US   physics.ppv   0.000223322
+US   plants.ppv   0.000286239
+US   plastic_arts.ppv   0.000143438
+US   politics.ppv   0.00112418
+US   post.ppv   0.000256828
+US   pure_science.ppv   0.000208643
+US   railway.ppv   0.000166209
+US   religion.ppv   0.000312849
+US   roman_catholic.ppv   0.000313095
+US   rowing.ppv   0.000151575
+US   sculpture.ppv   0.000188006
+US   social.ppv   0.000177776
+US   social_science.ppv   0.000338915
+US   sociology.ppv   0.00032633
+US   statistics.ppv   0.00014838
+US   sub.ppv   0.000127341
+US   swimming.ppv   0.000499706
+US   table_tennis.ppv   0.000141686
+US   tax.ppv   0.000550942
+US   telegraphy.ppv   0.000148504
+US   telephony.ppv   0.000164902
+US   tennis.ppv   0.000603016
+US   theatre.ppv   0.000875782
+US   time_period.ppv   0.000376698
+US   tourism.ppv   0.000508144
+US   town_planning.ppv   0.000873855
+US   transport.ppv   0.000222998
+US   tv.ppv   0.000175181
+US   university.ppv   0.000543393
+US   wrestling.ppv   0.000160589
+time   law.ppv   0.000219298
+time   time_period.ppv   0.000349583
+time   law.ppv   0.000219298
+time   time_period.ppv   0.000349583
+history   history.ppv   0.000233596
+American   administration.ppv   0.000239825
+American   archery.ppv   0.000155875
+American   architecture.ppv   0.000499143
+American   art.ppv   0.000307071
+American   artisanship.ppv   0.000210203
+American   dance.ppv   0.00132082
+American   diplomacy.ppv   0.000619422
+American   ethnology.ppv   0.00168162
+American   finance.ppv   0.000252008
+American   genetics.ppv   0.000726072
+American   geography.ppv   0.000284376
+American   history.ppv   0.000746544
+American   literature.ppv   0.000425287
+American   military.ppv   0.000522393
+American   painting.ppv   0.000717125
+American   paleontology.ppv   0.000115281
+American   person.ppv   0.000241463
+American   plastic_arts.ppv   0.000154536
+American   politics.ppv   0.000313912
+American   pure_science.ppv   0.000398558
+American   roman_catholic.ppv   0.000196345
+American   sculpture.ppv   0.000524489
+American   social_science.ppv   0.000156727
+American   university.ppv   0.000290192
+issue   banking.ppv   0.00318831
+issue   exchange.ppv   0.00092996
+issue   insurance.ppv   0.000773421
+
+
+
+
+THE RESULTS ARE: 
+
+electrotechnology.ppv   0.000263964
+architecture.ppv   0.0016074359999999998
+social_science.ppv   0.001313839
+religion.ppv   0.0009385470000000001
+theology.ppv   0.001660182
+gastronomy.ppv   0.0008842680000000001
+music.ppv   0.0010140869999999999
+cycling.ppv   0.0005329180000000001
+tennis.ppv   0.0018090479999999997
+wrestling.ppv   0.00048176699999999997
+anthropology.ppv   0.0020638820000000004
+oceanography.ppv   0.000566715
+animals.ppv   0.001003656
+law.ppv   0.001651404
+literature.ppv   0.0023092629999999998
+electronics.ppv   0.00089113
+administration.ppv   0.003179045
+plants.ppv   0.0008587169999999999
+genetics.ppv   0.000726072
+animal_husbandry.ppv   0.00047076600000000007
+linguistics.ppv   0.00096582
+golf.ppv   0.002955615
+sub.ppv   0.000382023
+biology.ppv   0.000881112
+roman_catholic.ppv   0.0011356299999999999
+artisanship.ppv   0.001430102
+psychoanalysis.ppv   0.000286322
+telephony.ppv   0.0024296120000000003
+buildings.ppv   0.0005896650000000001
+ethnology.ppv   0.0028042320000000003
+aviation.ppv   0.001275813
+theatre.ppv   0.002627346
+politics.ppv   0.004669935
+occultism.ppv   0.000704613
+dance.ppv   0.003419986
+astronautics.ppv   0.00903399
+time_period.ppv   0.0030228430000000003
+graphic_arts.ppv   0.00528087
+psychiatry.ppv   0.000340057
+transport.ppv   0.001803154
+astronomy.ppv   0.00105462
+psychological_features.ppv   0.000215355
+free_time.ppv   0.000938031
+engineering.ppv   0.00101042
+sculpture.ppv   0.001088507
+hunting.ppv   0.001021938
+military.ppv   0.001845921
+statistics.ppv   0.00044514
+environment.ppv   0.012329104999999998
+factotum.ppv   0.0005893482
+railway.ppv   0.000498627
+mountaineering.ppv   0.000476808
+paleontology.ppv   0.009573402
+astrology.ppv   0.0017368220000000003
+baseball.ppv   0.000937785
+metrology.ppv   0.0007863029999999999
+university.ppv   0.0019203709999999997
+geometry.ppv   0.001726035
+industry.ppv   0.000800133
+finance.ppv   0.00181481
+history.ppv   0.0035128729999999997
+hockey.ppv   0.000484155
+painting.ppv   0.002646887
+telegraphy.ppv   0.000445512
+tourism.ppv   0.0024229179999999996
+philosophy.ppv   0.000618681
+paranormal.ppv   0.000176677
+plastic_arts.ppv   0.00058485
+folklore.ppv   0.0038649599999999997
+insurance.ppv   0.003928185
+commerce.ppv   0.0012191099999999998
+boxing.ppv   0.00331746
+swimming.ppv   0.0014991180000000002
+enterprise.ppv   0.0020202139999999998
+humanities.ppv   0.000630501
+sociology.ppv   0.001254683
+geology.ppv   0.00095106
+economy.ppv   0.000866568
+post.ppv   0.0007704840000000001
+rowing.ppv   0.000454725
+diplomacy.ppv   0.002826281
+number.ppv   0.007460039999999999
+philology.ppv   0.001057004
+person.ppv   0.001416686
+town_planning.ppv   0.002621565
+tax.ppv   0.001652826
+electricity.ppv   0.000289283
+physics.ppv   0.0022177080000000005
+art.ppv   0.001538196
+cinema.ppv   0.001144368
+philately.ppv   0.000397848
+numismatics.ppv   0.000811572
+exchange.ppv   0.0038482860000000002
+earth.ppv   0.00329385
+archaeology.ppv   0.006925421999999999
+fishing.ppv   0.0006105419999999999
+table_tennis.ppv   0.00042505799999999997
+pedagogy.ppv   0.0008544749999999999
+nautical.ppv   0.0009984899999999999
+chess.ppv   0.0004999199999999999
+geography.ppv   0.0036746759999999996
+betting.ppv   0.000443301
+hydraulics.ppv   0.000333806
+tv.ppv   0.0005255430000000001
+archery.ppv   0.0007920129999999999
+pure_science.ppv   0.001024487
+banking.ppv   0.011318871
+book_keeping.ppv   0.000553062
+social.ppv   0.000533328
+
+
+THE FINAL RESULT IS: 
+FILE :Before the Flood - Trailer _ National Geographic-D9xFFyUOpXo.en.vtt                                 CATEGORY:environment.ppv
+
+Process finished with exit code 0
